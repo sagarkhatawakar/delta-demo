@@ -1,3 +1,3 @@
 # delta-demo
 
-This is fro practice.
+This is for practice.
